@@ -1,4 +1,4 @@
-design_pattern
+DesignPattern : PHP
 =========
 
 デザインパターン
