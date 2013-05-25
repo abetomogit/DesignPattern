@@ -15,5 +15,5 @@ factorymethod.php
 
 
 2013-05-25-Observer  
-ランダムな数をConcreteSubject1で作成し、ConcreteObserver1,2で異なる形式で表示した  
+ランダムな数をConcreteSubject1で作成し、ConcreteObserver1,2で異なる形式で表示  
 observer.php  
