@@ -5,12 +5,12 @@ DesignPattern : PHP
 
 
 2013-05-11-TemplateMethod  
-HTMLタグの「ul」と「dl」をテンプレートメソッドパターンを用いて作成した  
+HTMLタグの「ul」と「dl」をテンプレートメソッドパターンを用いて作成  
 templatemethod.php  
 
 
 2013-05-15-FactoryMethod  
-product1とproduct2を用いて使用した  
+product1とproduct2を用いて使用  
 factorymethod.php  
 
 
